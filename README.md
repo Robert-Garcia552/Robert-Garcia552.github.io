@@ -1,2 +1,5 @@
-# Robert-Garcia552.github.io
+# Author
+Robert Garcia
+
+# Purpose
 Resume and portfolio site
